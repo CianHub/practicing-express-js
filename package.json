@@ -1,0 +1,16 @@
+{
+  "name": "practicing-expressjs",
+  "version": "1.0.0",
+  "description": "A project containing an assignment I've completed to practice using expressjs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
